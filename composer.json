@@ -1,0 +1,18 @@
+{
+    "name": "centraldesktop/thrift-php",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Trey Hyde",
+            "email": "thyde@centraldesktop.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Thrift": "lib"
+        }
+    }
+}
